@@ -1,26 +1,3 @@
-# BRdev-cookie
-
-# Simple class Cookie.
-
-
-## Installation
-
-Cookie is available via Composer:
-
-```bash
-"brdev/cookie": "1.0"
-```
-
-or run
-
-```bash
-composer require brdev/cookie
-```
-
-## EXAMPLES THE WITH USE
-
-```php
-
 <?php
 
 use BRdev\Cookie\Cookie;
@@ -61,5 +38,3 @@ if(false){
 if(false){
     $cookie->deleteAll();
 }
-
-```
